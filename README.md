@@ -15,7 +15,7 @@ I'm a **Computer Engineering Undergrad Student🎓 [@University of Benin](https:
 - 🔭 I’m currently working on an awareness mobile application for Covid 19.
 - 🌱 I’m currently learning Mobile/Software Development and low code development.
 - 📝 I write technical blogs and articles. [Check out my blog](https://medium.com/@ritaokonkwo6)
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1uQHLKHxkY14DeRfIGPNXSM3xk5lt3wLl/view?usp=sharing)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1JKcivQngMH6jTanXDlpHOJvCRhXsqg9k/view?usp=sharing)
 - 😄 Pronouns: She/Her
 - 🎉 Fun-Fact: I ❤️ travelling and adventures. I love reading books and I love food a lot!
 
