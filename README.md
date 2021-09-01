@@ -12,7 +12,7 @@ I'm a **Computer Engineering Undergrad Student🎓 [@University of Benin](https:
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on an awareness mobile application for Covid 19.
+- 🔭 I’m currently working on an optical character recognition mobile application so watch this space!😄
 - 🌱 I’m currently learning Mobile/Software Development and low code development.
 - 📝 I write technical blogs and articles. [Check out my blog](https://medium.com/@ritaokonkwo6)
 - 📙 Check out my [Resume](https://drive.google.com/file/d/1JKcivQngMH6jTanXDlpHOJvCRhXsqg9k/view?usp=sharing)
