@@ -7,16 +7,16 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/IcdIKJQbS7T9yNg0su/giphy.gif" width="50"> 
-I'm a **Computer Engineering Undergrad Student🎓 [@University of Benin](https://www.uniben.edu/)**. I am a mobile developer & I love doing purposeful and meaningful work. I aspire to use technology for social good.<br/><br/>
+I'm a Software Engineer with a focus on web and mobile technologies. I also have an interest in OSS, Technical communities and Public speaking. I am open to collaborating on interesting OSS/Software projects & community building. My hobbies are reading books (mostly non-fiction), watching movies and eating chicken<br/><br/>
 
 
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on an optical character recognition mobile application so watch this space!😄
-- 🌱 I’m currently learning Mobile/Software Development and low code development.
-- 📝 I write technical blogs and articles. [Check out my blog](https://medium.com/@ritaokonkwo6)
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1JKcivQngMH6jTanXDlpHOJvCRhXsqg9k/view?usp=sharing)
+- 🌱 I’m currently learning the art of Software Engineering.
+- 📝 I write technical blogs and articles. [Check out my blog](https://blog.ritaokonkwo.com)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1iSjFcMlw9Kw4xIypffr1Nzj1uTXDXv1P/view?usp=sharing)
 - 😄 Pronouns: She/Her
-- 🎉 Fun-Fact: I ❤️ travelling and adventures. I love reading books and I love food a lot!
+- 🎉 Fun-Fact: I ❤️ reading words in their reversed form!
 
 
